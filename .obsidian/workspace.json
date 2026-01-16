@@ -1,0 +1,283 @@
+{
+  "main": {
+    "id": "ad15d6655f5bf84c",
+    "type": "split",
+    "children": [
+      {
+        "id": "0754da32f8db4ccc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "572e401911c913e1",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "03_Datos_obtenidos/27_08to06_09.png"
+              },
+              "icon": "lucide-image",
+              "title": "27_08to06_09"
+            }
+          },
+          {
+            "id": "4b8c5e8349366d61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Modelos/FORMATO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FORMATO"
+            }
+          },
+          {
+            "id": "7702fad24537c211",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Estacion/Sistema Integrado final(Scripts usados)/Sistema Final versión 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sistema Final versión 1"
+            }
+          },
+          {
+            "id": "884bc178a509dee2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          },
+          {
+            "id": "38696353742d01aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Modelos/publicaciones/publicaciones.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "publicaciones"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3b64e070d22d391e",
+    "type": "split",
+    "children": [
+      {
+        "id": "280160a7f9c74771",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd21ca6d8b47425d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "e327f1d8bd06802a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "eedc1646a1e96cee",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 443.5
+  },
+  "right": {
+    "id": "ad4cec48f15c1c1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "445b4b6014f39d4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "940838a38fe93b5a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "138507ca88d5e579",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "8cf80ebd0c0750d4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "cc50f1a7fcb0cb36",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "ed9a1f96f1b445e9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "884bc178a509dee2",
+  "lastOpenFiles": [
+    "02_Estacion/Documentacion/Documentacion.md",
+    "01_Modelos/publicaciones/publicaciones.md",
+    "03_Datos_obtenidos/27_08to06_09.png",
+    "03_Datos_obtenidos/~$datalog_modificado.xlsx",
+    "01_Modelos/FORMATO.md",
+    "02_Estacion/Sistema Integrado final(Scripts usados)/Sistema Final versión 1.md",
+    "02_Estacion/Pruebas con ESP32/Pruebas ESP32.md",
+    "02_Estacion/Documentacion/Informe_Pasantía_HectorVelazquez.pdf",
+    "02_Estacion/Documentacion/informe_Estación_Mburicaó.pdf",
+    "02_Estacion/02_Estacion.md",
+    "03_Datos_obtenidos/Datos_obtenidos.md",
+    "02_Estacion/Documentacion",
+    "00_Index_master/00_Index_master.md",
+    "02_Estacion/placa_estacion/placa_estacion.md",
+    "README.md",
+    "01_Modelos/01_Modelos.md",
+    "02_Estacion/placa_estacion/placa_estacion-backups/placa_versiones.md",
+    "02_Estacion/placa_estacion/ESTACION2 (1).rar",
+    "02_Estacion/placa_estacion/ESTACION2.rar",
+    "01_Modelos/00_Index/Index.md",
+    "02_Estacion/Moden/Moden.md",
+    "03_Datos_obtenidos",
+    "01_Modelos/docs/visualizacion/merged/cross_correlation/cross_correlation.md",
+    "00_Index_master",
+    "02_Estacion/Moden/USR-GPRS232-730&734-AT commands V1.0.0.pdf",
+    "02_Estacion/Moden/USR-GPRS232-730-Guide-Line_V1.0.13.01.pdf",
+    "01_Modelos/docs/visualizacion/model/LR/LR_best_features_rmse_results_plot.png",
+    "01_Modelos/docs/visualizacion/model/LR/LR_best_features_r2_results_plot.png",
+    "01_Modelos/docs/visualizacion/model/LR/LR_best_features_mape_results_plot.png",
+    "01_Modelos/docs/visualizacion/model/LR/LR.md",
+    "01_Modelos/docs/visualizacion/merged/cross_correlation/snd_nivel_cross_correlation.png",
+    "01_Modelos/docs/visualizacion/merged/cross_correlation/snd_local_merged_cross_correlation.png",
+    "01_Modelos/docs/visualizacion/merged/cross_correlation/sil_nivel_cross_correlation.png",
+    "01_Modelos/scr/evaluation/excel/excel.md",
+    "01_Modelos/notebooks/nivel/peaks/peaks.md",
+    "01_Modelos/notebooks/merged/snd_local/snd_local.md",
+    "01_Modelos/notebooks/merged/snd_aisp/snd_aisp.md",
+    "01_Modelos/notebooks/merged/snd/snd.md",
+    "01_Modelos/notebooks/merged/sil/sil.md",
+    "01_Modelos/notebooks/merged/all/all.md",
+    "01_Modelos/notebooks/merged/aisp_local/asip_local.md",
+    "01_Modelos/notebooks/merged/aisp/aisp.md",
+    "01_Modelos/docs/visualizacion/station/station.md",
+    "01_Modelos/docs/visualizacion/station/snd_plot_overview.png",
+    "01_Modelos/docs/visualizacion/station/sil_plot_overview.png",
+    "01_Modelos/docs/visualizacion/station/aisp_plot_overview.png"
+  ]
+}

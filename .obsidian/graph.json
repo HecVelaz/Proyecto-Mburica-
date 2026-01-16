@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:01_Modelos",
+      "color": {
+        "a": 1,
+        "rgb": 1258420
+      }
+    },
+    {
+      "query": "path:02_Estacion",
+      "color": {
+        "a": 1,
+        "rgb": 5431380
+      }
+    },
+    {
+      "query": "path:00_Index",
+      "color": {
+        "a": 1,
+        "rgb": 15062047
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 14159374
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -2.1,
+  "nodeSizeMultiplier": 1.45260416666667,
+  "lineSizeMultiplier": 1.63125,
+  "collapse-forces": true,
+  "centerStrength": 0.625,
+  "repelStrength": 15.5208333333333,
+  "linkStrength": 0.744791666666667,
+  "linkDistance": 86,
+  "scale": 0.5087618855792567,
+  "close": false
+}
