@@ -4,51 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0754da32f8db4ccc",
+        "id": "a0e47596525a6c89",
         "type": "tabs",
         "children": [
           {
-            "id": "572e401911c913e1",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "03_Datos_obtenidos/27_08to06_09.png"
-              },
-              "icon": "lucide-image",
-              "title": "27_08to06_09"
-            }
-          },
-          {
-            "id": "4b8c5e8349366d61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Modelos/FORMATO.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "FORMATO"
-            }
-          },
-          {
-            "id": "7702fad24537c211",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Estacion/Sistema Integrado final(Scripts usados)/Sistema Final versión 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sistema Final versión 1"
-            }
-          },
-          {
-            "id": "884bc178a509dee2",
+            "id": "8ee3e4a1bc4c1da2",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -56,23 +16,8 @@
               "icon": "lucide-git-fork",
               "title": "Vista gráfica"
             }
-          },
-          {
-            "id": "38696353742d01aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Modelos/publicaciones/publicaciones.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "publicaciones"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -231,10 +176,11 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "884bc178a509dee2",
+  "active": "8ee3e4a1bc4c1da2",
   "lastOpenFiles": [
-    "02_Estacion/Documentacion/Documentacion.md",
+    "01_Modelos/notebooks/merged/merged.md",
     "01_Modelos/publicaciones/publicaciones.md",
+    "02_Estacion/Documentacion/Documentacion.md",
     "03_Datos_obtenidos/27_08to06_09.png",
     "03_Datos_obtenidos/~$datalog_modificado.xlsx",
     "01_Modelos/FORMATO.md",
@@ -275,7 +221,6 @@
     "01_Modelos/notebooks/merged/all/all.md",
     "01_Modelos/notebooks/merged/aisp_local/asip_local.md",
     "01_Modelos/notebooks/merged/aisp/aisp.md",
-    "01_Modelos/docs/visualizacion/station/station.md",
     "01_Modelos/docs/visualizacion/station/snd_plot_overview.png",
     "01_Modelos/docs/visualizacion/station/sil_plot_overview.png",
     "01_Modelos/docs/visualizacion/station/aisp_plot_overview.png"
