@@ -1,0 +1,3 @@
+- [LR_best_features_mape_results_plot.png](/docs/visualizacion/model/LR/LR_best_features_mape_results_plot.png)
+- [LR_best_features_r2_results_plot.png](/docs/visualizacion/model/LR/LR_best_features_r2_results_plot.png)
+- [LR_best_features_rmse_results_plot.png](/docs/visualizacion/model/LR/LR_best_features_rmse_results_plot.png)

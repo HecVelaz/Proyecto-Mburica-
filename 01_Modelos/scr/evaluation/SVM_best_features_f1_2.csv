@@ -1,0 +1,7 @@
+window,n_features,best_features,f1,precision,recall
+0,6,"('sil_0', 'sil_30', 'sil_40', 'sil_50', 'sil_accumulated_40', 'sil_accumulated_50')",0.7058823529411765,0.75,0.6666666666666666
+1,2,"('sil_accumulated_10', 'sil_accumulated_40')",0.64,0.5,0.8888888888888888
+2,2,"('sil_accumulated_20', 'sil_accumulated_40')",0.6086956521739131,0.5,0.7777777777777778
+3,4,"('sil_50', 'sil_accumulated_30', 'sil_accumulated_40', 'sil_accumulated_50')",0.3720930232558139,0.23529411764705882,0.8888888888888888
+4,1,"('sil_accumulated_40',)",0.3720930232558139,0.23529411764705882,0.8888888888888888
+5,1,"('sil_50',)",0.38095238095238093,0.24242424242424243,0.8888888888888888

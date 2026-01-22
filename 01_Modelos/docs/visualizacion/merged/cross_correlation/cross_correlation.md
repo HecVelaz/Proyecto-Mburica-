@@ -1,0 +1,3 @@
+- [sil_nivel_cross_correlation.png](/docs/visualizacion/merged/cross_correlation/sil_nivel_cross_correlation.png)
+- [snd_local_merged_cross_correlation.png](/docs/visualizacion/merged/cross_correlation/snd_local_merged_cross_correlation.png)
+- [snd_nivel_cross_correlation.png](/docs/visualizacion/merged/cross_correlation/snd_nivel_cross_correlation.png)
