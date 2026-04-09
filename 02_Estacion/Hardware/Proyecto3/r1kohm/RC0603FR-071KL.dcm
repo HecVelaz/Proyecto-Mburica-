@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RC0603FR-071KL
+D Res Thick Film 0603 1K Ohm 1% 0.1W(1/10W) +/-100ppm/C Epoxy Pad SMD T/R
+K
+F https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf
+$ENDCMP
+#
+#End Doc Library

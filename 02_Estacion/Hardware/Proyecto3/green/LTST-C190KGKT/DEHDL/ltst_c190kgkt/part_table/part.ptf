@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LTST_C190KGKT'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Lite-On", "LTST-C190KGKT" (!) = "", "LEDC1608X80N", "LEDs Chip", "859-LTST-C190KGKT", "https://www.mouser.co.uk/ProductDetail/Lite-On/LTST-C190KGKT?qs=205qCy6M2Q%252BAdcgwUZktqw%3D%3D", "Lite-On LTST-C190KGKT, 571 nm Green LED, 1608 (0603) SMD package", "", "0.8 mm"
+END_PART
+
+END.

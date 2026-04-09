@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP GRM188R61A105KA61D
+D Ceramic  SMT capacitor 1uF 10Vdc Murata 0603 GRM 1uF Ceramic Multilayer Capacitor, 10 V dc, +85C, X5R Dielectric, +/-10%
+K
+F https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R61A105KA61-01A.pdf
+$ENDCMP
+#
+#End Doc Library

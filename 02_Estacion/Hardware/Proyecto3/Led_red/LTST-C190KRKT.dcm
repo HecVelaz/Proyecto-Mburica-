@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LTST-C190KRKT
+D LED,SMD,0603,Red,54mcd,130deg Lite-On LTST-C190KRKT Red LED, 631 nm, 1608 (0603), Rectangle Lens SMD Package
+K
+F https://componentsearchengine.com/Datasheets/1/LTST-C190KRKT.pdf
+$ENDCMP
+#
+#End Doc Library

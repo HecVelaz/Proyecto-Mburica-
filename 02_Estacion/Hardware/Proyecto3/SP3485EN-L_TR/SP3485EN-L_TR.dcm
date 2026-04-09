@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SP3485EN-L_TR
+D RS-485 Interface IC 3.3V LoPwr Half-Dup RS485w/10Mbps Data
+K
+F https://www.maxlinear.com/ds/sp3485.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,275 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "0ea3909b-0642-4ea9-9009-9b8e96db6454")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 107.95 17.78)
+		(size 80.01 58.42)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "38428b3c-941e-45a5-b7ee-1390225da3f5")
+		(property "Sheetname" "SD_card"
+			(at 107.95 17.0684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sd_to_esp32.kicad_sch"
+			(at 107.95 76.7846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Estacion_Nivel"
+				(path "/0ea3909b-0642-4ea9-9009-9b8e96db6454"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 15.24 16.51)
+		(size 80.01 63.5)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "47b86426-9649-4f52-a973-e325faae4c17")
+		(property "Sheetname" "RTC"
+			(at 15.24 15.7984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "DS3231.kicad_sch"
+			(at 15.24 80.5946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Estacion_Nivel"
+				(path "/0ea3909b-0642-4ea9-9009-9b8e96db6454"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 190.5 93.98)
+		(size 80.01 67.31)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a3732adb-d149-411b-b991-c325d1bd5a69")
+		(property "Sheetname" "ESP32"
+			(at 190.5 93.2684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "esp32_modulo.kicad_sch"
+			(at 190.5 161.8746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Estacion_Nivel"
+				(path "/0ea3909b-0642-4ea9-9009-9b8e96db6454"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 110.49 97.79)
+		(size 68.58 58.42)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b4d16cc0-a506-44cb-9a2e-5d550f505d54")
+		(property "Sheetname" "Alimentación"
+			(at 110.49 97.0784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "vcc_to_3v3.kicad_sch"
+			(at 110.49 156.7946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Estacion_Nivel"
+				(path "/0ea3909b-0642-4ea9-9009-9b8e96db6454"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 203.2 17.78)
+		(size 77.47 59.69)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c49186a1-fca4-4a55-adbb-11073449066b")
+		(property "Sheetname" "USB_C"
+			(at 203.2 17.0684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "conector_USB.kicad_sch"
+			(at 203.2 78.0546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Field2" ""
+			(at 203.2 17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Estacion_Nivel"
+				(path "/0ea3909b-0642-4ea9-9009-9b8e96db6454"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 16.51 99.06)
+		(size 77.47 57.15)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "fd926f39-6a58-477d-aca4-d2840fa5ecef")
+		(property "Sheetname" "MAX ttl485"
+			(at 16.51 98.3484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ttl_to_rs485.kicad_sch"
+			(at 16.51 156.7946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Estacion_Nivel"
+				(path "/0ea3909b-0642-4ea9-9009-9b8e96db6454"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

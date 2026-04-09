@@ -1,0 +1,104 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "M20-9990245"
+   (description "M20: 2 Pos Plug SIL Straight 3mm THT Connector 6.1mm pin Gold")
+   (family "CON")
+   (package "HDRV2W64P0X254_1X2_508X254X864P")
+   (attribute "Datasheet Link" "https://content.harwin.com/m/0df15f6e0f9f48e2/original/DRG-00479-Technical-Drawing-Datasheet-M20-999-pdf.pdf")
+   (attribute "Geometry.Height" "8.64mm")
+   (attribute "Mouser Part Number" "855-M20-9990245")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Harwin/M20-9990245?qs=Jph8NoUxIfUDXEB%252Bi9kJRA%3D%3D")
+   (attribute "Manufacturer_Name" "Harwin")
+   (attribute "Manufacturer_Part_Number" "M20-9990245")
+   (gate
+    (symbol "M20-9990245")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+   )
+  )
+  (symbol "M20-9990245"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 600 100) (pt 600 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "HDRV2W64P0X254_1X2_508X254X864P"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed false)
+      (pt -1.52 -1.52)
+      (pt -1.52 1.52)
+      (pt 4.06 1.52)
+      (pt 4.06 -1.52)
+      (pt -1.52 -1.52))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.27 -1.27)
+      (pt -1.27 1.27)
+      (pt 3.81 1.27)
+      (pt 3.81 -1.27)
+      (pt -1.27 -1.27))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -1.27 0)
+      (pt -1.27 -1.27)
+      (pt 3.81 -1.27)
+      (pt 3.81 1.27)
+      (pt 0 1.27))))
+   (leg 1 (pt 0 0) (padstack 1))
+   (leg 2 (pt 2.54 0) (padstack 0))
+   (padstack 0
+    (hole 1.1)
+    (plated true)
+    (pad (layer TCOP) (round 1.65))
+    (pad (layer INNER) (round 1.65))
+    (pad (layer BCOP) (round 1.65))
+   )
+   (padstack 1
+    (hole 1.1)
+    (plated true)
+    (pad (layer TCOP) (square 1.65))
+    (pad (layer INNER) (round 1.65))
+    (pad (layer BCOP) (square 1.65))
+   )
+   (model "M20-9990245.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP B3U-1000P
+D OMRON ELECTRONIC COMPONENTS - B3U-1000P - SWITCH, SPST-NO, 0.05A, 12V, SMD
+K
+F https://www.omron.com/ecb/products/pdf/en-b3u.pdf
+$ENDCMP
+#
+#End Doc Library

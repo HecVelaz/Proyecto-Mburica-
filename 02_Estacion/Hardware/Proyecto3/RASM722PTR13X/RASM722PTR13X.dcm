@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RASM722PTR13X
+D DC Power Connectors Connectors, Interconnects Barrel - Power - CONN JACK R/A .080" PIN SMD
+K
+F http://www.switchcraft.com/Drawings/rasm722px_cd.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP GRT21BR61A106KE01L
+D Chip Multilayer Ceramic Capacitor Capacitance  10uF +/-10% Distance between external terminals g  0.7mm min. External terminal size e  0.2 to 0.7mm Operating Temperature Range  -55 to 85 Rated Voltage  10Vdc Size code in inch(mm)  0805 (2012M) Capacitance change rate  +/-15.0% Temperature characteristics (complied standard)  X5R(EIA) Temperature range of temperature characteristics  -55 to 85
+K
+F https://componentsearchengine.com/Datasheets/1/GRT21BR61A106KE01L.pdf
+$ENDCMP
+#
+#End Doc Library

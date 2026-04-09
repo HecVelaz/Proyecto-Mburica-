@@ -178,6 +178,10 @@
   },
   "active": "8ee3e4a1bc4c1da2",
   "lastOpenFiles": [
+    "2026-03-18.md",
+    "Sin título.canvas",
+    "Sin título.base",
+    "Sin título.md",
     "03_Datos_obtenidos/Datos_obtenidos.md",
     "01_Modelos/notebooks/merged/merged.md",
     "01_Modelos/publicaciones/publicaciones.md",
@@ -204,7 +208,6 @@
     "01_Modelos/docs/visualizacion/merged/cross_correlation/cross_correlation.md",
     "00_Index_master",
     "02_Estacion/Moden/USR-GPRS232-730&734-AT commands V1.0.0.pdf",
-    "02_Estacion/Moden/USR-GPRS232-730-Guide-Line_V1.0.13.01.pdf",
     "01_Modelos/docs/visualizacion/model/LR/LR_best_features_rmse_results_plot.png",
     "01_Modelos/docs/visualizacion/model/LR/LR_best_features_r2_results_plot.png",
     "01_Modelos/docs/visualizacion/model/LR/LR_best_features_mape_results_plot.png",
@@ -218,9 +221,6 @@
     "01_Modelos/notebooks/merged/snd_aisp/snd_aisp.md",
     "01_Modelos/notebooks/merged/snd/snd.md",
     "01_Modelos/notebooks/merged/sil/sil.md",
-    "01_Modelos/notebooks/merged/all/all.md",
-    "01_Modelos/notebooks/merged/aisp_local/asip_local.md",
-    "01_Modelos/notebooks/merged/aisp/aisp.md",
     "01_Modelos/docs/visualizacion/station/snd_plot_overview.png",
     "01_Modelos/docs/visualizacion/station/sil_plot_overview.png",
     "01_Modelos/docs/visualizacion/station/aisp_plot_overview.png"

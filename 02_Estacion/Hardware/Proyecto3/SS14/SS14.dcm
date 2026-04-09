@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SS14
+D High-Current Capability, Low VF; Glass-Passivated Junctions
+K
+F https://www.onsemi.com/pub/Collateral/SS19-D.PDF
+$ENDCMP
+#
+#End Doc Library

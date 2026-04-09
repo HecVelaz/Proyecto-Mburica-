@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "LTST-C190KGKT"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2018-06-06-11:10:45)
+    (mountForm default
+        (footprintRef "LEDC1608X80N")
+        (spec "System")
+    )
+)

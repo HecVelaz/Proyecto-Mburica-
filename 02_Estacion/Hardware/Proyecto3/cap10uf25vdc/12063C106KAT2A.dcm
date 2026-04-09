@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 12063C106KAT2A
+D MLCC Capacitor 10uF 1206 X7R 10% 25V AVX 10uF Ceramic Multilayer Capacitor 25 V +/-10% X7R dielectric FlEXITERM SMT max op. temp. +125C
+K
+F https://spicat.kyocera-avx.com/product/mlcc/chartview/12063C106KAT2A/DataSheet/X7R
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP GCM188R71C104KA37D
+D Murata 100nF Multilayer Ceramic Capacitor MLCC 16V dc +/-10% X7R Dielectric 0603 (1608M) SMD, Max. Temp. +125C
+K
+F https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GCM188R71C104KA37-01A.pdf
+$ENDCMP
+#
+#End Doc Library

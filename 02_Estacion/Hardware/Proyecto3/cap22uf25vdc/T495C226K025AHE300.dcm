@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP T495C226K025AHE300
+D SMD, MnO2, Molded, Low ESR
+K
+F https://www.yageogroup.com/content/datasheet/asset/file/KEM_T2009_T495
+$ENDCMP
+#
+#End Doc Library

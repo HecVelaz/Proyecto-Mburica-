@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_290794"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-10-05-14:18:23)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "LTST-C190KGKT")
+)
+
+
+(pinAssign "ECS_290794"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-10-05-14:18:23)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_290794")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "LTST-C190KGKT")
+)
+
+
+(part "LTST-C190KGKT"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-10-05-14:18:23)
+    (utime 2023-03-07-16:10:32)
+    (packageRef "LTST-C190KGKT")
+    (pinAssignRef "ECS_290794")
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "LED")
+    (property "description" "Lite-On LTST-C190KGKT, 571 nm Green LED, 1608 (0603) SMD package")
+    (property "Mouser_Part_Number" "859-LTST-C190KGKT")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Lite-On/LTST-C190KGKT?qs=205qCy6M2Q%252BAdcgwUZktqw%3D%3D")
+    (property "Manufacturer_Name" "Lite-On")
+    (property "Manufacturer_Part_Number" "LTST-C190KGKT")
+    (property "Datasheet_Link" "")
+    (property "compAreaTopHeight" 0.8)
+)
+
+

@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_248136"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-03-24-21:01:39)
+    (utime 2026-01-02-13:22:20)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "M20-9990245")
+)
+
+
+(pinAssign "ECS_248136"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-03-24-21:01:39)
+    (utime 2026-01-02-13:22:20)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_248136")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "M20-9990245")
+)
+
+
+(part "M20-9990245"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-03-24-21:01:39)
+    (utime 2026-01-02-13:22:20)
+    (packageRef "M20-9990245")
+    (pinAssignRef "ECS_248136")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "J")
+    (property "description" "M20: 2 Pos Plug SIL Straight 3mm THT Connector 6.1mm pin Gold")
+    (property "Mouser_Part_Number" "855-M20-9990245")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Harwin/M20-9990245?qs=Jph8NoUxIfUDXEB%252Bi9kJRA%3D%3D")
+    (property "Manufacturer_Name" "Harwin")
+    (property "Manufacturer_Part_Number" "M20-9990245")
+    (property "Datasheet_Link" "https://content.harwin.com/m/0df15f6e0f9f48e2/original/DRG-00479-Technical-Drawing-Datasheet-M20-999-pdf.pdf")
+    (property "compAreaTopHeight" 8.64)
+)
+
+

@@ -1,0 +1,42 @@
+PCBNEW-LibModule-V1  2026-03-29 10:19:49
+# encoding utf-8
+Units mm
+$INDEX
+T495C
+$EndINDEX
+$MODULE T495C
+Po 0 0 0 15 69c8eeb5 00000000 ~~
+Li T495C
+Cd T495C
+Kw Capacitor Polarised
+Sc 0
+At SMD
+AR 
+Op 0 0 0
+T0 0 0 1.27 1.27 0 0.254 N V 21 N "C**"
+T1 0 0 1.27 1.27 0 0.254 N I 21 N "T495C"
+DS -3 -1.6 3 -1.6 0.2 24
+DS 3 -1.6 3 1.6 0.2 24
+DS 3 1.6 -3 1.6 0.2 24
+DS -3 1.6 -3 -1.6 0.2 24
+DS -3 -1.6 3 -1.6 0.1 21
+DS 3 1.6 -3 1.6 0.1 21
+DS -4.455 -2.6 4.455 -2.6 0.05 24
+DS 4.455 -2.6 4.455 2.6 0.05 24
+DS 4.455 2.6 -4.455 2.6 0.05 24
+DS -4.455 2.6 -4.455 -2.6 0.05 24
+DC -4.07 0 -4.12 0 0.254 21
+$PAD
+Po -2.47 0
+Sh "1" R 2.23 2.37 0 0 900
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po 2.47 0
+Sh "2" R 2.23 2.37 0 0 900
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$EndMODULE T495C
+$EndLIBRARY

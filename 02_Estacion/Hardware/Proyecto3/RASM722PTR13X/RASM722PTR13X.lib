@@ -1,0 +1,24 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model RASM722PTR13X
+#/300143/502518/2.50/3/4/Connector
+DEF RASM722PTR13X J 0 30 Y Y 1 F N
+F0 "J" 2550 300 50 H V L CNN
+F1 "RASM722PTR13X" 2550 200 50 H V L CNN
+F2 "RASM722X" 2550 100 50 H I L CNN
+F3 "http://www.switchcraft.com/Drawings/rasm722px_cd.pdf" 2550 0 50 H I L CNN
+F4 "DC Power Connectors Connectors, Interconnects Barrel - Power - CONN JACK R/A .080\" PIN SMD" 2550 -100 50 H I L CNN "Description"
+F5 "" 2550 -200 50 H I L CNN "Height"
+F6 "502-RASM722PTR13X" 2550 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Switchcraft/RASM722PTR13X?qs=NW1tGwZwExFzXYAsdXkb2Q%3D%3D" 2550 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Switchcraft" 2550 -500 50 H I L CNN "Manufacturer_Name"
+F9 "RASM722PTR13X" 2550 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X TIP_TERMINAL_(CENTER_PIN) 1 0 0 200 R 50 50 0 0 P
+X SHUNT_TERMINAL 2 0 -100 200 R 50 50 0 0 P
+X SLEEVE_TERMINAL 3 2700 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 2500 100 2500 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
