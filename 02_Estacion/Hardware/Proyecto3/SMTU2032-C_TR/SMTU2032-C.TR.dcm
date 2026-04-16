@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SMTU2032-C.TR
+D Coin Cell Battery Holders SMT HOLDER ON T&R FOR CR2032-485/REEL
+K
+F https://www.mouser.se/datasheet/2/346/SMTU2032-C-258020.pdf
+$ENDCMP
+#
+#End Doc Library

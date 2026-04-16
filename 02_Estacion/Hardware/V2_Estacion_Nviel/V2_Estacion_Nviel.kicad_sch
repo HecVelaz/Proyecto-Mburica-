@@ -1,0 +1,275 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "8f9270e0-bea9-481c-9bb0-dabd6fd2e871")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 190.5 20.32)
+		(size 86.36 67.31)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0195b3e6-f052-42a1-af74-b71c2c9b8b01")
+		(property "Sheetname" "USB_C"
+			(at 190.5 19.6084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "conector_USB.kicad_sch"
+			(at 190.5 88.2146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Field2" ""
+			(at 190.5 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "V2_Estacion_Nviel"
+				(path "/8f9270e0-bea9-481c-9bb0-dabd6fd2e871"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 24.13 20.32)
+		(size 76.2 67.31)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0f278510-55b5-440e-838d-242b2277b2d2")
+		(property "Sheetname" "alimentacion"
+			(at 24.13 19.6084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "vcc_to_3v3.kicad_sch"
+			(at 24.13 88.2146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "V2_Estacion_Nviel"
+				(path "/8f9270e0-bea9-481c-9bb0-dabd6fd2e871"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 104.14 20.32)
+		(size 80.01 67.31)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "24909611-6bce-4841-ba53-7474c32be19c")
+		(property "Sheetname" "esp32"
+			(at 104.14 19.6084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "esp32_modulo.kicad_sch"
+			(at 104.14 88.2146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "V2_Estacion_Nviel"
+				(path "/8f9270e0-bea9-481c-9bb0-dabd6fd2e871"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 190.5 97.79)
+		(size 87.63 62.23)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "53f9b30f-79ef-4e4b-ba7e-4a31e77a92eb")
+		(property "Sheetname" "SD_card"
+			(at 190.5 97.0784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sd_to_esp32.kicad_sch"
+			(at 190.5 160.6046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "V2_Estacion_Nviel"
+				(path "/8f9270e0-bea9-481c-9bb0-dabd6fd2e871"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 105.41 97.79)
+		(size 80.01 63.5)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7edd3642-091e-4d64-a404-12df42e5790d")
+		(property "Sheetname" "RTC"
+			(at 105.41 97.0784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "DS3231.kicad_sch"
+			(at 105.41 161.8746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "V2_Estacion_Nviel"
+				(path "/8f9270e0-bea9-481c-9bb0-dabd6fd2e871"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 19.05 99.06)
+		(size 81.28 62.23)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c8f941cd-b495-4d06-aed3-f1e0b561f8f7")
+		(property "Sheetname" "ttl485"
+			(at 19.05 98.3484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ttl_to_rs485.kicad_sch"
+			(at 19.05 161.8746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "V2_Estacion_Nviel"
+				(path "/8f9270e0-bea9-481c-9bb0-dabd6fd2e871"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

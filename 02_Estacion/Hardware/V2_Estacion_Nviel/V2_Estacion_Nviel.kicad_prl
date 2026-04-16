@@ -59,13 +59,11 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "Estacion_Nivel.kicad_prl",
+    "filename": "V2_Estacion_Nviel.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
     "col_hidden": [
-      false,
-      false,
       false,
       false,
       false,
@@ -87,23 +85,19 @@
       6,
       7,
       8,
-      9,
-      10,
-      11
+      9
     ],
     "col_widths": [
-      162,
-      147,
-      91,
-      102,
-      97,
-      107,
-      108,
-      107,
-      91,
-      91,
-      91,
-      91
+      186,
+      171,
+      112,
+      125,
+      118,
+      131,
+      131,
+      132,
+      112,
+      112
     ],
     "custom_group_rules": [],
     "expanded_rows": [],
