@@ -1,0 +1,37 @@
+Informe de ERC (2026-03-21T18:21:33-0300, codificación UTF8)
+
+***** Hoja /
+
+***** Hoja /ttl485/
+[power_pin_not_driven]: Pin de entrada de alimentación no conectado a ningún pin de salida
+    ; error
+    @(6050 mils, 3250 mils): Symbol #PWR01 Pin 1 [Power input, Line]
+
+***** Hoja /SD_card/
+
+***** Hoja /esp32/
+
+***** Hoja /alimentacion/
+[power_pin_not_driven]: Pin de entrada de alimentación no conectado a ningún pin de salida
+    ; error
+    @(4500 mils, 2250 mils): Symbol U3 Pin 3 [VI, Power input, Line]
+
+***** Hoja /RTC/
+[power_pin_not_driven]: Pin de entrada de alimentación no conectado a ningún pin de salida
+    ; error
+    @(5100 mils, 2300 mils): Symbol U4 Pin 14 [VBAT, Power input, Line]
+
+***** Hoja /USB_C/
+[power_pin_not_driven]: Pin de entrada de alimentación no conectado a ningún pin de salida
+    ; error
+    @(4500 mils, 2900 mils): Symbol J2 Pin A4 [VBUS_A, Power input, Line]
+[multiple_net_names]: Tanto GND como GND_A están conectados a los mismos elementos; se utilizará GND en el listado de redes
+    ; warning
+    @(5100 mils, 4300 mils): Symbol #PWR06 Pin 1 [Power input, Line]
+    @(4500 mils, 3800 mils): Symbol J2 Pin oculto A12 [GND_A, Power input, Line]
+[multiple_net_names]: Tanto VBUS_A como VBUS_B están conectados a los mismos elementos; se utilizará VBUS_A en el listado de redes
+    ; warning
+    @(4500 mils, 2900 mils): Symbol J2 Pin oculto A9 [VBUS_A, Power input, Line]
+    @(5900 mils, 2900 mils): Symbol J2 Pin oculto B9 [VBUS_B, Power input, Line]
+
+**Mensajes ERC: 6. Errores4, Avisos 2
