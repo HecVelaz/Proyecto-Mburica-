@@ -1,5 +1,0 @@
-[[Moden]]
-[[placa_estacion]]
-[[Pruebas ESP32]]
-[[Sistema Final versión 1]]
-[[Documentacion]]
