@@ -1,0 +1,12 @@
+# Configurar los 8MB de memoria Flash (N8)
+CONFIG_ESPTOOLPY_FLASHSIZE_8MB=y
+CONFIG_ESPTOOLPY_FLASHSIZE="8MB"
+
+# Activar y configurar los 8MB de PSRAM Octal (R8)
+CONFIG_SPIRAM=y
+CONFIG_SPIRAM_MODE_OCT=y
+CONFIG_SPIRAM_TYPE_AUTO=y
+
+# Forzar que la consola de logs salga siempre por el USB Nativo
+CONFIG_ESP_CONSOLE_UART_CUSTOM=y
+CONFIG_ESP_CONSOLE_USB_CDC=y
